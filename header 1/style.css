@@ -1,0 +1,50 @@
+*{
+    text-decoration: none;
+ }
+
+ .navbar {
+    background: red;
+    font-family: 'calibri';
+    padding-left: 15px;
+    padding-right: 15px;
+ }
+
+ .navdiv {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+ }
+
+ .logo a {
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+
+ }
+
+ li {
+    list-style: none;
+    display: inline-block;
+
+ }
+
+ li a {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 10px;
+ }
+
+ button {
+    width: 90px;
+    border-radius: 10px;
+    background-color: black;
+
+ }
+
+ button a {
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    margin-left: 10px;
+ }
